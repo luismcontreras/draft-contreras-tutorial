@@ -70,7 +70,7 @@ Table of Contents
 
 1.  Introduction
 
-   TODO Introduction
+   Introduction
 
 2.  Conventions and Definitions
 
