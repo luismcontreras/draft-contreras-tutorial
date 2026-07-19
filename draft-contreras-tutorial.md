@@ -44,7 +44,7 @@ This is a test during the tutorial
 
 # Introduction
 
-TODO Introduction
+Introduction
 
 
 # Conventions and Definitions
