@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:52:23.328252+00:00",
+  "repo": "luismcontreras/draft-contreras-tutorial",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKGRc7zhluk",
+      "title": "Update abstract section with a test message",
+      "url": "https://github.com/luismcontreras/draft-contreras-tutorial/pull/1",
+      "state": "MERGED",
+      "author": "luismcontreras",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:30:31Z",
+      "updatedAt": "2026-07-19T11:31:53Z",
+      "baseRepository": "luismcontreras/draft-contreras-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "150041d58da1bcae2bdfb81e3e7a0af5148c0cb2",
+      "headRepository": "luismcontreras/draft-contreras-tutorial",
+      "headRefName": "luismcontreras-patch-1",
+      "headRefOid": "8bfffac89195185c22cf2f17c05963d6d13a0532",
+      "closedAt": "2026-07-19T11:31:53Z",
+      "mergedAt": "2026-07-19T11:31:53Z",
+      "mergedBy": "luismcontreras",
+      "mergeCommit": {
+        "oid": "303149ed0d719246b3199c533743a0a7f6eef58f"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKGRc7zhn0G",
+      "title": "Update introduction section heading",
+      "url": "https://github.com/luismcontreras/draft-contreras-tutorial/pull/2",
+      "state": "MERGED",
+      "author": "luismcontreras",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:34:06Z",
+      "updatedAt": "2026-07-19T11:34:36Z",
+      "baseRepository": "luismcontreras/draft-contreras-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "303149ed0d719246b3199c533743a0a7f6eef58f",
+      "headRepository": "luismcontreras/draft-contreras-tutorial",
+      "headRefName": "luismcontreras-patch-2",
+      "headRefOid": "5815a34ef43140c4854eec146024540f2ff3bee7",
+      "closedAt": "2026-07-19T11:34:36Z",
+      "mergedAt": "2026-07-19T11:34:36Z",
+      "mergedBy": "luismcontreras",
+      "mergeCommit": {
+        "oid": "10aeb1cdb72e328f8fadce7e40eec8b674f64193"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
